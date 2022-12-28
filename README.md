@@ -15,10 +15,10 @@
     * "lint": "eslint src --ext .ts,.tsx --fix",
     * "typecheck": "tsc --noEmit"
 
-[] - Limpeza projeto
-[] - CSS global
-[] - components
+[x] - Limpeza projeto
+[x] - CSS global
+[x] - components
     * TrafficLight
     * Light
 
-[] - Styled Components
+[x] - Styled Components
