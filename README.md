@@ -1,8 +1,8 @@
-[] - ESLint: npx eslint --init
+[x] - ESLint: npx eslint --init
     * eslintrc: "project": "./tsconfig.json"
     * rules
 
-[] - Prettier: yarn add eslint-config-prettier eslint-plugin-prettier prettier
+[] - Prettier: yarn add -D eslint-config-prettier eslint-plugin-prettier prettier
     * rules
 
 [] - falha vite-env.d
